@@ -1,4 +1,4 @@
-# Traverse_and_become_a_concubine
+# Very-Simple-Projects
 A short word game
 
 You wake up and found out u traversed to the past!
